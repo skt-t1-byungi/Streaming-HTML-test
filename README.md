@@ -1,5 +1,4 @@
-https://codesandbox.io/s/affectionate-sinoussi-xg45t?file=/src/index.js
-
+https://codesandbox.io/s/streaming-html-test-xg45t
 > 오잉... 생각보다 되게 잘되넹 ;
 
 - https://developers.google.com/web/updates/2019/02/rendering-on-the-web?hl=ko
