@@ -17,19 +17,23 @@ createServer(async (_, resp) => {
         resp.write(`
         <button id="btn${i}">cli`)
         await sleep(1000)
+
         resp.write(`ck!</button>
         <script>
         el = document.getEleme`)
         await sleep(1000)
+
         resp.write(`ntById('btn${i}'); 
         el.textContent += '(event bounded)'
         el.addEventListener('click', () => alert("${i} clicked!"))`)
         await sleep(1000)
+
         resp.write(`
         </script>        
         <style>
             :root{ background: `)
         await sleep(1000)
+
         resp.write(`${['pink', 'yellow', 'azure'][i % 3]} }
         </style>
         `)
