@@ -1,4 +1,6 @@
-오잉... 생각보다 되게 잘되넹 ;
+https://codesandbox.io/s/affectionate-sinoussi-xg45t?file=/src/index.js
+
+> 오잉... 생각보다 되게 잘되넹 ;
 
 - https://developers.google.com/web/updates/2019/02/rendering-on-the-web?hl=ko
 - https://mxstbr.com/thoughts/streaming-ssr/
