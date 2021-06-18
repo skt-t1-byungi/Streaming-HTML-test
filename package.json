@@ -1,0 +1,7 @@
+{
+    "name": "streaming-html-test",
+    "type": "module",
+    "scripts": {
+        "start": "node server.js"
+    }
+}
